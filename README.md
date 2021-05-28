@@ -1,5 +1,5 @@
 # docker-fast-api-e2e
-An end to end project running on docker providing fast api
+An end to end project running on docker providing [FastApi](https://fastapi.tiangolo.com/)
 
 From repo directory
 ```bash
