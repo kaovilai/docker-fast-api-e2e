@@ -1,5 +1,5 @@
 # docker-fast-api-e2e
-An end to end project running on docker providing flask api
+An end to end project running on docker providing fast api
 
 From repo directory
 ```bash
